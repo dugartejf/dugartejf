@@ -1,7 +1,13 @@
-<!DOCTYPE html>
+<1!DOCTYPE html>
 <html>
-<p>This is my first webpage</p>
+<p>Jose Dugarte</p>
 <img src="dog.jpg">
 <img src="virtualladnscape.jpg"height="400"
-<li><a href="wildseedportrait</a>
-<li><a href="patterns</a>
+  <body>
+  <h1>This is my Intro to New Media Page.</h1>
+    <p>From this page you can access all my homework for HUW 112</P>
+    <Ul>
+      <li><a href="wildseedportrait.html">Here is a link to my wildseed portrait</a></li>
+      <li><a href="patterns.html">Here is a link to my patterns</a></li>
+      </body>
+ </html>
