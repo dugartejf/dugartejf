@@ -7,7 +7,14 @@
   <h1>This is my Intro to New Media Page.</h1>
     <p>From this page you can access all my homework for HUW 112</P>
     <Ul>
+<h1>My Wild Seed Portrait</h1>
       <li><a href="wildseedportrait.html">Here is a link to my wildseed portrait</a></li>
+      <img src="wildseed.jpg">
+<h1>My patterns</h1>
       <li><a href="patterns.html">Here is a link to my patterns</a></li>
-      </body>
+      <img src="patterns.jpg">
  </html>
+ <h1>My logo</h1>
+ <li><a href="logo.html">Here is a link to my patterns</a></li>
+ <img src="logo.jpg">
+<a href="index.html">Back to main page</a> 
