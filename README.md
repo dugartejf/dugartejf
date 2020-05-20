@@ -1,1 +1,1 @@
-# dugartejf.github.io.
+# dugartejf.github.io
